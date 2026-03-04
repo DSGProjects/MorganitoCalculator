@@ -1,6 +1,6 @@
-# Morganito Calculator
+# Morgan CLI Calculator
 
-¡Bienvenido a **Morganito Calculator**! 🎉  
+¡Bienvenido a **Morgan CLI Calculator**! 🎉  
 Esta es una calculadora con interfaz gráfica creada en **Python** usando **Tkinter**, con sonido gracias a **pygame**.
 
 ---
@@ -32,14 +32,14 @@ pip install pygame
 ## ▶️ Ejecución
 
 ```bash
-python Morganito_Calculator.py
+python Morgan CLI Calculator.py
 ```
 
 ---
 
 ## 📸 Captura
 
-![Morganito Calculator](Morgancapt.png)
+![Morgan CLI Calculator](Morgancapt.png)
 
 ---
 
