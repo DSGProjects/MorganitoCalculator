@@ -1,49 +1,60 @@
-# Morgan CLI Calculator
+# 🧮 Morgan Calculator
 
-¡Bienvenido a **Morgan CLI Calculator**! 🎉  
-Esta es una calculadora con interfaz gráfica creada en **Python** usando **Tkinter**, con sonido gracias a **pygame**.
-
----
-
-## 🚀 Características
-
-- Interfaz gráfica fácil de usar  
-- Operaciones básicas: `+` `-` `*` `/`  
-- Botón `C` para borrar  
-- Botón `=` para calcular  
-- Sonido al calcular  
-- Icono personalizado  
+Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y sonido con Pygame. Incluye ícono personalizado y fue empaquetada como ejecutable `.exe` con PyInstaller.
 
 ---
 
-## 💻 Requisitos
+## 🛠️ Tecnologías utilizadas
 
-- Python 3  
-- pygame  
-
-Instalar pygame:
-
-```bash
-pip install pygame
-```
+- **Python** → Lenguaje principal
+- **Tkinter** → Interfaz gráfica
+- **Pygame** → Sonido al presionar botones
+- **PyInstaller** → Empaquetado como ejecutable .exe
 
 ---
 
-## ▶️ Ejecución
+## ✨ Características
 
-```bash
-python Morgan CLI Calculator.py
-```
+- Operaciones básicas: suma, resta, multiplicación y división
+- Sonido al calcular resultado
+- Ícono personalizado
+- Ventana fija, diseño limpio
+- Empaquetada como `.exe` ejecutable
 
 ---
 
 ## 📸 Captura
 
-![Morgan CLI Calculator](Morgancapt.png)
+![Morgan Calculator](Morgancapt.png)
+
+---
+
+## 🚀 Cómo correr el proyecto
+
+### Opción 1: Correr con Python
+
+```bash
+pip install pygame
+python "Morgan Calculator.py"
+```
+
+### Opción 2: Ejecutable
+
+Descarga el `.exe` y ejecuta directamente sin instalar Python.
+
+---
+
+## 📁 Archivos
+
+| Archivo | Descripción |
+|---------|-------------|
+| `Morgan Calculator.py` | Código fuente principal |
+| `click.wav` | Sonido al calcular |
+| `Morgan.png` | Ícono de la ventana |
+| `Morgancapt.png` | Captura de pantalla |
 
 ---
 
 ## 👨‍💻 Autor
-
-David Solano
-
+**David Fernando Solano Garcia** - Analista de Datos & QA Junior  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/david-fernando-solano-garcia-840230348)
